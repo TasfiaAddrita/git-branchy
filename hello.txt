@@ -1,3 +1,5 @@
 Hello world!
 
-Hello world pt 2!
+Hello world pt 2! -- Added to master branch via git merge
+
+Hello world pt 3! -- going to add to develop branch via git pull
